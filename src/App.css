@@ -40,7 +40,19 @@ section [class^="container"] {
     max-width: 22rem;
     margin-inline: auto;
   }
-  
+  section.projects i {
+    font-size: 2rem;
+    margin: 1rem auto 0;
+    border: 2px solid #000000;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #98c4f4;
+  }
+
   /* NAVBAR */
   
   .navbar {
