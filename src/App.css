@@ -50,7 +50,7 @@ section [class^="container"] {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #98c4f4;
+    background-color: #f5a841;
   }
 
   /* NAVBAR */
@@ -121,7 +121,7 @@ section [class^="container"] {
     text-align: left;
   }
   section.projects .card img {
-    max-width: 100%;
+    max-width: 80%;
     margin: 0 auto;
   }
   
