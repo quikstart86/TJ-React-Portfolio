@@ -12,7 +12,8 @@ const Home = () => {
             <div className="col-sm-6">
               <h1 className="display-4 fw-bold">Thomas Jack</h1>
               <p>Front-End Wed Developer & Designer.</p>
-              <a className="btn btn-outline-dark btn-lg" href="#" role="button">See my Projects</a>
+              <a className="btn btn-outline-dark btn-lg" href="https://tj-react-portfolio.netlify.app/#/project-gallery
+              " role="button">See my Projects</a>
             </div>
             <div className="col-sm-6 text-center">
               <img src="..." className="img-fluid" alt="" />
