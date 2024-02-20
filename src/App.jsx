@@ -1,7 +1,7 @@
 import Header from "./components/Header.jsx";
 import Footer from "./components/Footer.jsx";
 import Home from "./components/Home.jsx";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import ProjectGallery from "./components/ProjectGallery.jsx";
 import Contact from "./components/Contact.jsx";
 import "./App.css"
