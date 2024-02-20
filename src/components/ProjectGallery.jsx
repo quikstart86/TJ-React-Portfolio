@@ -10,8 +10,8 @@ const ProjectGallery = () => {
         <div className="row">
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              <i className="bi bi-file-earmark-x"></i>
-              {/* <img src="..." className="card-img-top" alt="..." /> */}
+              {/* <i className="bi bi-file-earmark-x"></i> */}
+              <img src="src\assets\images\horeison-img.png" className="card-img-top" alt=".."  style={{aspectRatio:"1/1"}}/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Code Refactor</h5>
                 <p className="card-text">
@@ -30,8 +30,8 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              <i className="bi bi-laptop"></i>
-              <img src="..." className="card-img-top" alt="..." />
+              {/* <i className="bi bi-laptop"></i> */}
+              <img src="src\assets\images\screenshot.png" className="card-img-top" alt=".."  style={{aspectRatio:"1/1"}}/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">HTML / CSS Portfolio</h5>
                 <p className="card-text">
