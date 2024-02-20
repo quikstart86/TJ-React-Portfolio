@@ -1,5 +1,9 @@
 /* eslint-disable react/no-unescaped-entities */
+
 const Home = () => {
+
+
+
   return (
     <main>
       <section className="hero" id="hero">
@@ -8,7 +12,7 @@ const Home = () => {
             <div className="col-sm-6">
               <h1 className="display-4 fw-bold">Thomas Jack</h1>
               <p>Front-End Wed Developer & Designer.</p>
-              <a className="btn btn-outline-dark btn-lg" href="#" role="button">Projects</a>
+              <a className="btn btn-outline-dark btn-lg" href="#" role="button">See my Projects</a>
             </div>
             <div className="col-sm-6 text-center">
               <img src="..." className="img-fluid" alt="" />
@@ -57,9 +61,10 @@ const Home = () => {
         <div className="container">
             <h2 className="display-5 fw-bold mb-4">About Me</h2>
             <img src="https://media.licdn.com/dms/image/D4E03AQFwQpcxPkPMNg/profile-displayphoto-shrink_200_200/0/1699529846200?e=1714003200&v=beta&t=P8xyDd0KsuY-xDDZeslfLeFh5ZF3kQYYGWAelTOo7r4"className="rounded-circle mb-3 border border-5" alt="" />
-            <p>Hi i'm Thomas. I'm currently learning Front-end Web Development on a 16-week bootcamp. I'm loving it! It's fast paced - there's a lot to new information to retain and concepts to understand but i've always wanted to do this. So far we have learned about Git version control, GitHub & GitLab, HTML5, CSS3, Flex & Grid, Bootstrap, Node, TDD, React and deployment.</p>
+            <p>Hi i'm Thomas. I'm a Front-end Web Developer having completed a 16-week Bootcamp. It was great! Very fast-paced - A huge amount of new information to retain and concepts to understand but i've always wanted to do this. We learned about Git version control, GitHub & GitLab, HTML5, CSS3, Flex & Grid, Bootstrap, Node, NPM, TDD, React and how to deploy.</p>
         </div>
     </section>
+  
     </main>
   );
 };

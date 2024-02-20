@@ -23,7 +23,7 @@ function Header() {
                      <Link className="nav-link" to="/contact">Contact</Link>
                  </li>
                  <li className="nav-item">
-                 <a className="nav-link" href="pdf link from g-drive" target="_blank" rel="noopener noreferrer">Resume</a>
+                 <a className="nav-link" href="https://drive.google.com/file/d/1Q_3GvNySPOa3_sZHmW25KcyEfSVJ4fvz/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
                  </li>
              </ul>
              <Link className="btn btn-outline-dark d-none d-lg-block" to="/contact">Let's Talk</Link>
