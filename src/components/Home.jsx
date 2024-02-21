@@ -11,7 +11,7 @@ const Home = () => {
           <div className="row align-items-center">
             <div className="col-sm-6">
               <h1 className="display-4 fw-bold">Thomas Jack</h1>
-              <img src="src\assets\Animation - 1708473494329.gif" />
+              {/* <img src="src\assets\Animation - 1708473494329.gif" /> */}
               <p>Front-End Wed Developer & Designer.</p>
               <a className="btn btn-outline-dark btn-lg" href="https://tj-react-portfolio.netlify.app/#/project-gallery
               " role="button">See my Projects</a>
