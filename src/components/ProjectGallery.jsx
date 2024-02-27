@@ -23,14 +23,14 @@ const ProjectGallery = () => {
                   target="_blank"
                   className="btn btn-outline-dark"
                 >
-                  See Project
+                  Repo
                 </a>
                 <a
-                  href="https://github.com/quikstart86/horeison-code-refactor"
+                  href="https://quikstart86.github.io/horeison-code-refactor/"
                   target="_blank"
                   className="btn btn-outline-dark"
                 >
-                  See Project
+                  App
                 </a>
                 </div>
               </div>
