@@ -17,6 +17,7 @@ const ProjectGallery = () => {
                 <p className="card-text">
                   Refactoring project making use of clean symantic code to render a page.
                 </p>
+                <div className="d-flex gap-3 justify-content-center">
                 <a
                   href="https://github.com/quikstart86/horeison-code-refactor"
                   target="_blank"
@@ -24,6 +25,14 @@ const ProjectGallery = () => {
                 >
                   See Project
                 </a>
+                <a
+                  href="https://github.com/quikstart86/horeison-code-refactor"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  See Project
+                </a>
+                </div>
               </div>
             </div>
           </div>
