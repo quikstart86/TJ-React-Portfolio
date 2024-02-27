@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+import { Link } from "react-router-dom";
 
 const Home = () => {
 
@@ -13,8 +13,7 @@ const Home = () => {
               <h1 className="display-4 fw-bold">Thomas Jack</h1>
               <img src="/assets/Animation - 1708473494329.gif" />
               <p>Front-End Wed Developer & Designer.</p>
-              <a className="btn btn-outline-dark btn-lg" href="https://tj-react-portfolio.netlify.app/project-gallery
-              " role="button">See my Projects</a>
+              <Link className="nav-link" to="/project-gallery" className="btn btn-outline-dark btn-lg">See my work & Projects</Link>
             </div>
             <div className="col-sm-6 text-center">
               <img src="..." className="img-fluid" alt="" />
