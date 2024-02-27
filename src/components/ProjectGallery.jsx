@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+
 const ProjectGallery = () => {
 
 
@@ -10,12 +10,12 @@ const ProjectGallery = () => {
         <div className="row">
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-            <i className="bi bi-file-earmark-x"></i>
-              {/* <img src="./src/assets/images/horeison-img.png" className="card-img-top" alt=".."  style={{aspectRatio:"3/3"}} /> */}
+            {/* <i className="bi bi-file-earmark-x"></i> */}
+              <img src="./public/assets/horeison-img.png" alt="image of refactoring project" />
               <div className="card-body">
                 <h5 className="card-title fw-bold">Code Refactor</h5>
                 <p className="card-text">
-                  Refactoring project making use of clean symantic code to render a page.
+                  Refactoring project making use of clean symantic code.
                 </p>
                 <div className="d-flex gap-3 justify-content-center">
                 <a
@@ -38,8 +38,8 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              <i className="bi bi-laptop"></i>
-              {/* <img src="./src/assets/images/screenshot.png" className="card-img-top" alt=".."  style={{aspectRatio:"1/1"}} /> */}
+              {/* <i className="bi bi-laptop"></i> */}
+              <img src="./public/assets/screenshot.png" className="card-img-top" alt="image of a website project"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">First Portfolio</h5>
                 <p className="card-text">
