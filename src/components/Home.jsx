@@ -13,7 +13,7 @@ const Home = () => {
               <h1 className="display-4 fw-bold">Thomas Jack</h1>
               <img src="/assets/Animation - 1708473494329.gif" />
               <p>Front-End Wed Developer & Designer.</p>
-              <Link className="nav-link" to="/project-gallery" className="btn btn-outline-dark btn-lg">See my work & Projects</Link>
+              <Link className="btn btn-outline-dark btn-lg" to="/project-gallery">See my work & Projects</Link>
             </div>
             <div className="col-sm-6 text-center">
               <img src="..." className="img-fluid" alt="" />
