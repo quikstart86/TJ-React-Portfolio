@@ -191,7 +191,7 @@ const ProjectGallery = () => {
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
               {/* <i className="bi bi-laptop"></i> */}
-              <img src="/assets/weather-app.png" className="card-img-top" alt="image of financial data"/>
+              <img src="/assets/react-portfolio.png" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">React Portfolio</h5>
                 <p className="card-text">
