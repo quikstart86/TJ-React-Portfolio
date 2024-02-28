@@ -197,13 +197,22 @@ const ProjectGallery = () => {
                 <p className="card-text">
                   Professional portfolio  built using React.js, Node.js, Express.js, Bootstrap.
                 </p>
+                <div className="d-flex gap-3 justify-content-center">
                 <a
                   href="https://github.com/quikstart86/TJ-React-Portfolio"
                   target="_blank"
                   className="btn btn-outline-dark"
                 >
-                  See Project
+                  Repo
                 </a>
+                <a
+                  href="https://tj-react-portfolio.netlify.app/"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  App
+                </a>
+                </div>
               </div>
             </div>
           </div>
