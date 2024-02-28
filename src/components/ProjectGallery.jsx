@@ -15,7 +15,7 @@ const ProjectGallery = () => {
               <div className="card-body">
                 <h5 className="card-title fw-bold">Code Refactor</h5>
                 <p className="card-text">
-                  Refactoring project making use of clean symantic code.
+                  Refactoring project making use of clean semantic code.
                 </p>
                 <div className="d-flex gap-3 justify-content-center">
                 <a
