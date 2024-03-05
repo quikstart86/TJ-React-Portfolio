@@ -88,14 +88,14 @@ The task was to create a portfolio using react, react bootstrap, routes and Link
 <img src='./public/assets/portfolio-contact.png' width='30%'>
 
 
-[`Project Repo`](https://github.com/quikstart86/TJ-Team-Profile-Generator)
+[`Project Repo`](https://github.com/quikstart86/TJ-React-Portfolio)
 
 [`Deployed App`](https://tj-react-portfolio.netlify.app/)
 
 
 ## [Installation](#installation)
 
-* Created the app with Vite , which includes React, Babel, ESL. Added dependecies including:   "dependencies": {
+* Created the app with Vite , which includes React, Babel, ESL. Added dependecies including:   "dependencies":
     "bootstrap": "^5.3.2",
     "bootstrap-icons": "^1.11.3",
     "localforage": "^1.10.0",
