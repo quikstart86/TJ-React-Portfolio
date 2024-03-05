@@ -10,7 +10,6 @@ const ProjectGallery = () => {
         <div className="row">
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-            {/* <i className="bi bi-file-earmark-x"></i> */}
               <img src="/assets/horeison-img.png" alt="image of refactoring project" />
               <div className="card-body">
                 <h5 className="card-title fw-bold">Code Refactor</h5>
@@ -38,7 +37,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-laptop"></i> */}
               <img src="/assets/first-portfolio.gif" className="card-img-top" alt="image of a website project"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">First Portfolio</h5>
@@ -57,7 +55,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-safe2"></i> */}
               <img src="/assets/consolelog.PNG" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Console Log</h5>
@@ -76,7 +73,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-lock"></i> */}
               <img src="/assets/password-generator.gif" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Password Generator</h5>
@@ -95,7 +91,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-calendar-check"></i> */}
               <img src="/assets/scheduler-demo.gif" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Day Scheduler</h5>
@@ -114,7 +109,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-cloud-drizzle-fill"></i>*/}
               <img src="/assets/weather-app.png" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Weather Dashboard</h5>
@@ -133,7 +127,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-terminal"></i> */}
               <img src="/assets/readme-generator.gif" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Readme Generator</h5>
@@ -152,7 +145,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-laptop"></i> */}
               <img src="/assets/demo.gif" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Bootstrap Portfolio</h5>
@@ -171,7 +163,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-terminal"></i> */}
               <img src="/assets/team-generator.gif" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Profile Generator</h5>
@@ -190,7 +181,6 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
-              {/* <i className="bi bi-laptop"></i> */}
               <img src="/assets/react-portfolio.png" className="card-img-top" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">React Portfolio</h5>
