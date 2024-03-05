@@ -76,19 +76,21 @@ The task was to create a portfolio using react, react bootstrap, routes and Link
 * Some indication that this is your portfolio site
 
 ## [Mock-Up](#mock-up)
-[DEMO]<br>
+[`App Demo`]<br>
 <img src='./public/assets/porfolio-demo.gif' width='30%'>
 <br>
-[Page images]
+<br>
+<br>
+[`Page images`]
 <br>
 <img src='./public/assets/portfolio-react-home.png' width='30%'>
 <img src='./public/assets/portfolio-projects.png' width='30%'>
 <img src='./public/assets/portfolio-contact.png' width='30%'>
-<br>
-<img src='./assets/screenshot.png' width='30%'>
 
-[Project Repo](https://github.com/quikstart86/TJ-Team-Profile-Generator)
-[Deployed App](https://tj-react-portfolio.netlify.app/)
+
+[`Project Repo`](https://github.com/quikstart86/TJ-Team-Profile-Generator)
+
+[`Deployed App`](https://tj-react-portfolio.netlify.app/)
 
 
 ## [Installation](#installation)
