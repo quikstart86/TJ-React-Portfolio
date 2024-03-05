@@ -14,6 +14,12 @@ const Footer = () => {
             className="nav-link px-2 text-dark"
             target="_blank"><i className="bi bi-github"></i></a>
         </li>
+        <li className="nav-item">
+          <a
+            href="mailto:theshitbox@gmail.com"
+            className="nav-link px-2 text-dark"
+            target="_blank"><i className="bi bi-envelope-at"></i></a>
+        </li>
       </ul>
       <div>© 2024. Thomas Jack - All Rights Reserved.</div>
     </footer>
