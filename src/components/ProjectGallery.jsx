@@ -208,6 +208,60 @@ const ProjectGallery = () => {
           </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
+              <img src="/assets/home-app.png" className="card-img-top" alt="image of financial data"/>
+              <div className="card-body">
+                <h5 className="card-title fw-bold">Home App</h5>
+                <p className="card-text">
+                  Mortgage Calculator and Property search tool.
+                </p>
+                <div className="d-flex gap-3 justify-content-center">
+                <a
+                  href="https://github.com/abbyedxcmk/home-app"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  Repo
+                </a>
+                <a
+                  href="https://abbyedxcmk.github.io/home-app/"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  App
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-lg-4 col-sm-6 mt-4">
+            <div className="card">
+              <img src="/assets/get-to-work-logo.png" className="card-img-top" alt="image of financial data"/>
+              <div className="card-body">
+                <h5 className="card-title fw-bold">Get To Work</h5>
+                <p className="card-text">
+                  Customisable portfolio builder using react.js, react-bootstrap.
+                </p>
+                <div className="d-flex gap-3 justify-content-center">
+                <a
+                  href="https://github.com/quikstart86/Get-2-work"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  Repo
+                </a>
+                <a
+                  href="https://get-2-work.netlify.app/"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  App
+                </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-lg-4 col-sm-6 mt-4">
+            <div className="card">
             <img src="/assets/cbioe.png" alt="image of financial data"/>
               <div className="card-body">
                 <h5 className="card-title fw-bold">Carousel Bio Energy</h5>
