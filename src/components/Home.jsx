@@ -29,9 +29,8 @@ const Home = () => {
                     <div className="card">
                         <i className="bi bi-pentagon-half"></i>
                         <div className="card-body">
-                            <h5 className="card-title fw-bold">Brand Development</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <h5 className="card-title fw-bold">Graphic Design</h5>
+                            <p className="card-text">Encompassing brand analysis, brand development including logos, print and digital assets to get your company looking its best.</p>
                         </div>
                     </div>
                 </div>
@@ -40,8 +39,7 @@ const Home = () => {
                         <i className="bi bi-laptop"></i>
                         <div className="card-body">
                             <h5 className="card-title fw-bold">Web Development</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p className="card-text">Whether updating an existing site you have, adding functionality, adding e-comm integration of a full new build, i'd love to help.</p>
                         </div>
                     </div>
                 </div>
@@ -50,8 +48,7 @@ const Home = () => {
                         <i className="bi bi-rulers"></i>
                         <div className="card-body">
                             <h5 className="card-title fw-bold">UX/UI Design</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p className="card-text">Journeys are important. I understand the power of a good one - lets make you're work stand out that is beautiful to interact with.</p>
                         </div>
                     </div>
                 </div>
