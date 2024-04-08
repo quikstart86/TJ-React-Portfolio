@@ -8,6 +8,24 @@ const ProjectGallery = () => {
       <div className="container">
         <h2 className="display-5 fw-bold mb-4 text-center">Portfolio & Projects</h2>
         <div className="row">
+        <div className="col-lg-4 col-sm-6 mt-4">
+            <div className="card">
+              <img src="/assets/awphotography.png" className="card-img-top" alt="image of a website project"/>
+              <div className="card-body">
+                <h5 className="card-title fw-bold">Autumn Wild Photography</h5>
+                <p className="card-text">
+                  Full build website for a client showcasing her amazing photography
+                </p>
+                <a
+                  href="https://www.autumnwild.co.uk/"
+                  target="_blank"
+                  className="btn btn-outline-dark"
+                >
+                  See Website
+                </a>
+              </div>
+            </div>
+          </div>
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
               <img src="/assets/horeison-img.png" alt="image of refactoring project" />
@@ -113,7 +131,7 @@ const ProjectGallery = () => {
               <div className="card-body">
                 <h5 className="card-title fw-bold">Weather Dashboard</h5>
                 <p className="card-text">
-                  Weather Dashboard using API's to display 5-day local weather.
+                  Weather Dashboard, using API's to display 5-day local weather with search function.
                 </p>
                 <a
                   href="https://github.com/quikstart86/TJ-Weather-Dashboard"
