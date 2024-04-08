@@ -41,7 +41,7 @@ const ProjectGallery = () => {
               <div className="card-body">
                 <h5 className="card-title fw-bold">First Portfolio</h5>
                 <p className="card-text">
-                  First web portfolio project utilsing HTML5 & CSS3.
+                  First web portfolio project utilising HTML5 & CSS3.
                 </p>
                 <a
                   href="https://github.com/quikstart86/ThomasJack-portfolio"
