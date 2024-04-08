@@ -62,7 +62,7 @@ const Home = () => {
         <div className="container">
             <h2 className="display-5 fw-bold mb-4">About Me</h2>
             <img src="https://media.licdn.com/dms/image/D4E03AQFwQpcxPkPMNg/profile-displayphoto-shrink_200_200/0/1699529846200?e=1714003200&v=beta&t=P8xyDd0KsuY-xDDZeslfLeFh5ZF3kQYYGWAelTOo7r4"className="rounded-circle mb-3 border border-5" alt="" />
-            <p>Hi i'm Thomas. I'm a Front-end Web Developer having completed a 16-week Bootcamp. It was great! Very fast-paced - A huge amount of new information to retain and concepts to understand but i've always wanted to do this. We learned about Git version control, GitHub & GitLab, HTML5, CSS3, Flex & Grid, Bootstrap, JS, Node, NPM, TDD, React and how to deploy to github pages and Netlify.</p>
+            <p>Hi i'm Thomas, a passionate designer from London. I have been involved in design for some time and have been involved in many industries in design including; architectural, product, graphic and more recently web design. I have been developing my skill-set and have just completed a Front-end Web Developer course attaining a <strong>Distinction</strong>. It was great! Very fast-paced - A huge amount of new information to retain and concepts to understand but i've always wanted to do this. I have learned about Git version control, GitHub & GitLab, HTML5, CSS3, Flex & Grid, Bootstrap, JS, Node, NPM, TDD, React including deployment. I'm hoping to ustilise my newly developed skills to a fantastic multi-faceted design role.</p>
         </div>
     </section>
   
