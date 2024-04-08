@@ -9,6 +9,11 @@ section [class^="container"] {
       padding: 0 4rem;
     }
   }
+
+  .logo {
+    height: 30px;
+    padding-right: 10px;
+  }
   
   section:not(:first-of-type) {
     text-align: center;

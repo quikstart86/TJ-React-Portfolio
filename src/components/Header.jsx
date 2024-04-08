@@ -6,7 +6,10 @@ function Header() {
     
      <nav className="navbar navbar-expand-lg sticky-top shadow-sm">
      <div className="container-lg">
+        <div className="d-flex align-items-center">
+            <img className="logo" src="/assets/grey.png" alt="" />
          <Link className="navbar-brand fw-bold" to="/">Thomas Jack</Link>
+         </div>
          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
              <span className="navbar-toggler-icon"></span>
