@@ -6,7 +6,7 @@ const ProjectGallery = () => {
   return (
     <section className="projects" id="projects">
       <div className="container">
-        <h2 className="display-5 fw-bold mb-4">Portfolio & Projects</h2>
+        <h2 className="display-5 fw-bold mb-4 text-center">Portfolio & Projects</h2>
         <div className="row">
           <div className="col-lg-4 col-sm-6 mt-4">
             <div className="card">
